@@ -7,10 +7,12 @@
     gap: 50px;
 }
 .container>div{
+    display: grid;
     background-color: blue;
     height: 50px;
     width: 200px;
-    justify-content:space-between;
+    justify-content:center;
+    align-content: center;
 }
 .container>p{
     background-color: antiquewhite;
