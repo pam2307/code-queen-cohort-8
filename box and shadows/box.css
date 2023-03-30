@@ -1,0 +1,26 @@
+.box{
+    border: 10px solid blue;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 10px gray;
+    
+}
+#box1{
+    border: 5px dotted black;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px;
+    
+}
+.boxy{
+    border: 5px solid black;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    box-shadow: 20px 10px 10px grey;
+    
+}
